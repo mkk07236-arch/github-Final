@@ -1,2 +1,5 @@
-# github-Final
-Final lab exam
+# My Profile
+## About Me
+- Nickname: Fluke
+- Major: Computer Sci
+- Year: 1
